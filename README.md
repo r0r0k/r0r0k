@@ -13,7 +13,7 @@
 
 #### Experience
 
-- **The Spot**, Seoul, Republic of Korea (2025.01. ~ 2025.02.)
+- **the spot**, Seoul, Republic of Korea (2025.01. ~ 2025.02.)
   - Vulnerability Researcher (Internship)
 
 <!--
