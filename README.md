@@ -1,16 +1,21 @@
-## Hi there 👋
+### Juhyeong Kim
+
+##### kesnt8892@gmail.com
+
+#### Interests
+
+- System Security
+- Binary Analysis
+
+#### Education
+
+- B.S. in Computer Science, **Hanyang University** (2021.03. ~)
+
+#### Experience
+
+- **The Spot**, Seoul, Republic of Korea (2025.01. ~ 2025.02.)
+  - Vulnerability Researcher (Internship)
 
 <!--
-**juhyeongkim527/juhyeongkim527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Project
 -->
