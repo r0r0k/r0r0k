@@ -11,6 +11,7 @@
 
 - B.S. in Computer Science, **Hanyang University** (2021.03. ~ 2025.08.)
 - M.S. in Information Security, **KAIST** (2025.09. ~ )
+  - Advisor : [Youngjin Kwon](https://sites.google.com/view/yjkwon/home)
 
 #### Experience
 
