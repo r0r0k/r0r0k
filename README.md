@@ -1,19 +1,27 @@
 ### Juhyeong Kim
 
-##### juhyeongkim@kaist.ac.kr
+##### juhyeongkim@casys.kaist.ac.kr
 
-#### Interests
+### Research Interests
 
-- System Security
-- Binary Analysis
+I am deeply interested in **automated bug/vulnerability finding techniques such as fuzzing**.
+This is because I believe it is crucial to automatically detect unintended bugs in software or hardware before they can be exploited by malicious attackers.
+By ensuring that a system behaves exactly as its developer intended, we can build a safer and more trustworthy digital world.
 
-#### Education
+I am also fascinated by **computer systems and high-performance computer architecture design**. I find great fulfillment in designing systems that can serve as catalysts for solving humanity’s unsolved problems and for creating a better world through technological innovation.
 
-- B.S. in Computer Science, **Hanyang University** (2021.03. ~ 2025.08.)
-- M.S. in Information Security, **KAIST** (2025.09. ~ )
-  - Advisor : [Youngjin Kwon](https://sites.google.com/view/yjkwon/home)
+Finally, I have recently become highly interested in **AI security, monitoring, and privacy**.
+While many big tech companies are focusing heavily on improving AI performance, I think there has been insufficient attention to the side effects and security risks that accompany such rapid development.
+Among these, AI security could pose a serious threat to humanity in the near future.
+Therefore, I aim to contribute to the development and deployment of secure and responsible AI systems.
 
-#### Experience
+### Education
+
+- M.S. in [Information Security](https://gsis.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/kr/) (2025.09. ~ )
+  - Advisor : [Youngjin Kwon](https://sites.google.com/view/yjkwon/home), [CASYS Lab](https://casyslab.kaist.ac.kr/home)
+- B.S. in [Computer Science](https://cs.hanyang.ac.kr/), [Hanyang University](https://www.hanyang.ac.kr/) (2021.03. ~ 2025.08.)
+
+### Experience
 
 - **the spot**, Seoul, Republic of Korea (2025.01. ~ 2025.02.)
   - Vulnerability Researcher (Internship)
