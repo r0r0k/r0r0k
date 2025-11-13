@@ -23,5 +23,5 @@ Therefore, I aim to contribute to the development and deployment of secure and r
 
 ### Experience
 
-- **the spot**, Seoul, Republic of Korea (2025.01. ~ 2025.02.)
+- [the spot](https://thespot.kr/main), Seoul, Republic of Korea (2025.01. ~ 2025.02.)
   - Vulnerability Researcher (Internship)
